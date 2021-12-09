@@ -1,0 +1,13 @@
+{
+    "_template": "https://github.com/hackalog/cookiecutter-easydata.git",
+    "author_name": "Jay Hombal",
+    "conda_path": "~/anaconda3/bin/conda",
+    "default_branch": "master",
+    "description": "The project goal is to predict investor risk tolerance",
+    "module_name": "src",
+    "open_source_license": "MIT",
+    "project_name": "Investor_Risk_Tolerance",
+    "python_version": "latest",
+    "repo_name": "investor_risk_tolerance",
+    "upstream_location": "github.com"
+}
